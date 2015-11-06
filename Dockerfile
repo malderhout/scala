@@ -1,5 +1,5 @@
 FROM java:8
-MAINTAINER Maikel Alderhout malderhout@gmail.com
+MAINTAINER Maikel Alderhout <malderhout@gmail.com>
 RUN apt-get update
 
 ENV SCALA_VERSION 2.11.7
