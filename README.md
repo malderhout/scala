@@ -7,8 +7,8 @@ docker build -t malderhout/scala .
 
 Start:
 
-docker run -i -t malderhout/scala
+docker run -it malderhout/scala
 
 Login:
 
-docker run -i -t malderhout/scala /bin/bash
+docker run -it malderhout/scala /bin/bash
